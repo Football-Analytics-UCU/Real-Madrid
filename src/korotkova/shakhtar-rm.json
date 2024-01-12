@@ -24101,7 +24101,25 @@
             },
             "ssr": true,
             "fallback": {
-                "notableMatches:en-GB": null,
+                "notableMatches:en-GB": {
+                    "localizedTitle": "Don't miss",
+                    "matches": [
+                        {
+                            "matchDate": "2024-01-10T19:00:00Z",
+                            "homeScore": 0,
+                            "homeName": "Real Madrid",
+                            "awayId": "9906",
+                            "leagueName": "Super Cup",
+                            "boostFactor": 0,
+                            "awayName": "Atletico Madrid",
+                            "statusId": 1,
+                            "awayScore": 0,
+                            "leagueId": "139",
+                            "homeId": "8633",
+                            "id": "4183719"
+                        }
+                    ]
+                },
                 "/api/translationmapping?locale=en-GB": {
                     "Language": "en",
                     "Participants": null,
@@ -26497,7 +26515,9 @@
                             "playing_home": "%1$s is playing home against %2$s on %3$s.",
                             "playing_home_at_stadium": "%1$s is playing home against %2$s at %3$s on %4$s.",
                             "offerings_prematch": "Predicted lineups are available for the match a few days in advance while the actual lineup will be available about an hour ahead of the match.",
-                            "watch_on_tv": "Catch all the action on %1$s."
+                            "watch_on_tv": "Catch all the action on %1$s.",
+                            "TOTW": "TOTW",
+                            "tots": "Team of the Season"
                         }
                     },
                     "en": {
@@ -28221,7 +28241,9 @@
                             "playing_home": "%1$s is playing home against %2$s on %3$s.",
                             "playing_home_at_stadium": "%1$s is playing home against %2$s at %3$s on %4$s.",
                             "offerings_prematch": "Predicted lineups are available for the match a few days in advance while the actual lineup will be available about an hour ahead of the match.",
-                            "watch_on_tv": "Catch all the action on %1$s."
+                            "watch_on_tv": "Catch all the action on %1$s.",
+                            "TOTW": "TOTW",
+                            "tots": "Team of the Season"
                         }
                     }
                 },
@@ -28269,6 +28291,15 @@
         "url": "/matches/real-madrid-vs-shakhtar-donetsk/2sdar9",
         "toggles": [
             {
+                "name": "web-dfp-ads",
+                "enabled": true,
+                "variant": {
+                    "name": "disabled",
+                    "enabled": false
+                },
+                "impressionData": false
+            },
+            {
                 "name": "web-new-front-page",
                 "enabled": true,
                 "variant": {
@@ -28299,7 +28330,7 @@
         "seo": "real-madrid-vs-shakhtar-donetsk",
         "h2h": "2sdar9"
     },
-    "buildId": "4259",
+    "buildId": "4270",
     "isFallback": false,
     "dynamicIds": [
         95871,
