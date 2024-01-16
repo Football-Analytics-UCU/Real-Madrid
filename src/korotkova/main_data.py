@@ -2,7 +2,6 @@ import matplotlib.pyplot as plt
 import re
 import json
 from matplotlib.font_manager import FontProperties
-from mplsoccer.pitch import Pitch
 
 
 # get data from json file
@@ -82,49 +81,3 @@ def show_table_data(columns: list, table_data: dict, scaleX: float, scaleY: floa
                 fontproperties=FontProperties(weight='bold', size=14))
 
     plt.show()
-
-
-def arrows_pass_plot(success_passes: list, other_passes: list, first_team: str, second_team: str):
-    pitch = Pitch(pitch_type='opta',
-                  pitch_color='#22312b', line_color='#c7d5cc')
-    fig, ax = pitch.draw(
-        figsize=(16, 10), constrained_layout=True, tight_layout=False)
-    fig.set_facecolor('#22312b')
-
-    def get_team_passes_data(data: list):
-        result = []
-        x = ()
-        y = ()
-        end_X = ()
-        end_Y = ()
-        for pass_data in data:
-            x += (pass_data['x'],)
-            y += (pass_data['y'],)
-            end_X += (pass_data['endX'],)
-            end_Y += (pass_data['endY'],)
-        result.append(x)
-        result.append(y)
-        result.append(end_X)
-        result.append(end_Y)
-        return result
-
-    team_success_passes_data = get_team_passes_data(success_passes)
-
-    team_other_passes_data = get_team_passes_data(other_passes)
-
-    # for pass_data in home_team_other_passes:
-
-    pitch.arrows(team_success_passes_data[0], team_success_passes_data[1],
-                 team_success_passes_data[2], team_success_passes_data[3], width=2,
-                 headwidth=5, headlength=10, color='#ad993c', ax=ax, label='completed passes')
-    pitch.arrows(team_other_passes_data[0], team_other_passes_data[1], team_other_passes_data[2],
-                 team_other_passes_data[3], width=2,
-                 headwidth=5, headlength=5, headaxislength=10,
-                 color='#ba4f45', ax=ax, label='other passes')
-
-    ax.set_label('completed passes')
-    ax.legend(facecolor='white', handlelength=5,
-              fontsize=20, loc='upper left',)
-
-    ax_title = ax.set_title(f'{first_team} passes vs {second_team}',
-                            fontsize=20, color='#edede9')
