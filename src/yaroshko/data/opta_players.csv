@@ -1,0 +1,44 @@
+game_id,team_id,player_id,player_name,is_starter,minutes_played,jersey_number,starting_position
+1734996,65,80774,Marc-André ter Stegen,True,99,1,GK
+1734996,65,130331,Andreas Christensen,True,99,15,DC
+1734996,65,106885,Íñigo Martínez,True,99,5,DC
+1734996,65,384711,Ronald Araújo,True,99,4,DC
+1734996,65,128967,João Cancelo,True,78,2,MR
+1734996,65,77464,Ilkay Gündogan,True,99,22,MC
+1734996,65,422937,Gavi,True,99,6,MC
+1734996,65,422938,Alejandro Balde,True,99,3,ML
+1734996,65,463838,Fermín López,True,74,32,AMC
+1734996,65,362431,João Félix,True,79,14,FW
+1734996,65,349760,Ferran Torres,True,63,7,FW
+1734996,65,300447,Raphinha,False,20,11,Sub
+1734996,65,29400,Robert Lewandowski,False,36,9,Sub
+1734996,65,90780,Oriol Romeu,False,25,18,Sub
+1734996,65,480249,Lamine Yamal,False,21,27,Sub
+1734996,65,301019,Jules Koundé,False,0,23,Sub
+1734996,65,454343,Marc Casadó,False,0,30,Sub
+1734996,65,483206,Héctor Fort,False,0,39,Sub
+1734996,65,472377,Ander Astralaga,False,0,26,Sub
+1734996,65,84008,Marcos Alonso,False,0,17,Sub
+1734996,65,498386,Pau Cubarsí,False,0,33,Sub
+1734996,65,367164,Iñaki Peña,False,0,13,Sub
+1734996,65,483208,Marc Guiu,False,0,38,Sub
+1734996,52,113880,Kepa,True,99,25,GK
+1734996,52,106883,Dani Carvajal,True,99,2,DR
+1734996,52,39722,David Alaba,True,99,4,DC
+1734996,52,104010,Antonio Rüdiger,True,99,22,DC
+1734996,52,296337,Ferland Mendy,True,54,23,DL
+1734996,52,353423,Aurélien Tchouaméni,True,99,18,DMC
+1734996,52,31772,Toni Kroos,True,65,8,MC
+1734996,52,344644,Federico Valverde,True,99,15,MC
+1734996,52,379868,Jude Bellingham,True,99,5,MC
+1734996,52,337782,Vinícius Júnior,True,98,7,FW
+1734996,52,347862,Rodrygo,True,65,11,FW
+1734996,52,20874,Luka Modric,False,34,10,Sub
+1734996,52,369109,Eduardo Camavinga,False,45,12,Sub
+1734996,52,74603,Joselu,False,34,14,Sub
+1734996,52,144511,Lucas Vázquez,False,1,17,Sub
+1734996,52,430302,Diego Piñeiro,False,0,26,Sub
+1734996,52,106875,Nacho,False,0,6,Sub
+1734996,52,317541,Brahim Díaz,False,0,21,Sub
+1734996,52,345031,Andriy Lunin,False,0,13,Sub
+1734996,52,422957,Fran García,False,0,20,Sub
