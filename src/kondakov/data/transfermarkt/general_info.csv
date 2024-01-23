@@ -1,0 +1,255 @@
+match_id,competition,matchday,date,home_team,away_team,match_ended_in,home_score,away_score,winner
+4017422,Copa del Rey,Semi-Finals,2023-04-05,FC Barcelona,Real Madrid,Main time,0,4,Real Madrid
+3886591,LaLiga,26,2023-03-19,FC Barcelona,Real Madrid,Main time,2,1,FC Barcelona
+4017421,Copa del Rey,Semi-Finals,2023-03-02,Real Madrid,FC Barcelona,Main time,0,1,FC Barcelona
+4001330,Supercopa,Final,2023-01-15,Real Madrid,FC Barcelona,Main time,1,3,FC Barcelona
+3886323,LaLiga,9,2022-10-16,Real Madrid,FC Barcelona,Main time,3,1,Real Madrid
+3610564,LaLiga,29,2022-03-20,Real Madrid,FC Barcelona,Main time,0,4,FC Barcelona
+3593340,Supercopa,Semi-Finals,2022-01-12,FC Barcelona,Real Madrid,Extra time,2,3,Real Madrid
+3605324,LaLiga,10,2021-10-24,FC Barcelona,Real Madrid,Main time,1,2,Real Madrid
+3451399,LaLiga,30,2021-04-10,Real Madrid,FC Barcelona,Main time,2,1,Real Madrid
+3450971,LaLiga,7,2020-10-24,FC Barcelona,Real Madrid,Main time,1,3,Real Madrid
+3209984,LaLiga,26,2020-03-01,Real Madrid,FC Barcelona,Main time,2,0,Real Madrid
+3208724,LaLiga,10,2019-12-18,FC Barcelona,Real Madrid,Main time,0,0,Draw
+3080826,LaLiga,26,2019-03-02,Real Madrid,FC Barcelona,Main time,0,1,FC Barcelona
+3153160,Copa del Rey,Semi-Finals,2019-02-27,Real Madrid,FC Barcelona,Main time,0,3,FC Barcelona
+3153158,Copa del Rey,Semi-Finals,2019-02-06,FC Barcelona,Real Madrid,Main time,1,1,Draw
+3079431,LaLiga,10,2018-10-28,FC Barcelona,Real Madrid,Main time,5,1,FC Barcelona
+2899869,LaLiga,36,2018-05-06,FC Barcelona,Real Madrid,Main time,2,2,Draw
+2899698,LaLiga,17,2017-12-23,Real Madrid,FC Barcelona,Main time,0,3,FC Barcelona
+2878317,Supercopa,final,2017-08-16,Real Madrid,FC Barcelona,Main time,2,0,Real Madrid
+2878318,Supercopa,final,2017-08-13,FC Barcelona,Real Madrid,Main time,1,3,Real Madrid
+2719034,LaLiga,33,2017-04-23,Real Madrid,FC Barcelona,Main time,2,3,FC Barcelona
+2718844,LaLiga,14,2016-12-03,FC Barcelona,Real Madrid,Main time,1,1,Draw
+2594773,LaLiga,31,2016-04-02,FC Barcelona,Real Madrid,Main time,1,2,Real Madrid
+2594583,LaLiga,12,2015-11-21,Real Madrid,FC Barcelona,Main time,0,4,FC Barcelona
+2475457,LaLiga,28,2015-03-22,FC Barcelona,Real Madrid,Main time,2,1,FC Barcelona
+2475267,LaLiga,9,2014-10-25,Real Madrid,FC Barcelona,Main time,3,1,Real Madrid
+2425890,Copa del Rey,Final,2014-04-16,FC Barcelona,Real Madrid,Main time,1,2,Real Madrid
+2341314,LaLiga,29,2014-03-23,Real Madrid,FC Barcelona,Main time,3,4,FC Barcelona
+2341135,LaLiga,10,2013-10-26,FC Barcelona,Real Madrid,Main time,2,1,FC Barcelona
+2243144,LaLiga,26,2013-03-02,Real Madrid,FC Barcelona,Main time,2,1,Real Madrid
+2288676,Copa del Rey,Semi-Finals,2013-02-26,FC Barcelona,Real Madrid,Main time,1,3,Real Madrid
+2288674,Copa del Rey,Semi-Finals,2013-01-30,Real Madrid,FC Barcelona,Main time,1,1,Draw
+2242853,LaLiga,7,2012-10-07,FC Barcelona,Real Madrid,Main time,2,2,Draw
+2244389,Supercopa,final,2012-08-29,Real Madrid,FC Barcelona,Main time,2,1,Real Madrid
+2244388,Supercopa,final,2012-08-23,FC Barcelona,Real Madrid,Main time,3,2,FC Barcelona
+1125566,LaLiga,35,2012-04-21,FC Barcelona,Real Madrid,Main time,1,2,Real Madrid
+1178297,Copa del Rey,Quarter-Finals,2012-01-25,FC Barcelona,Real Madrid,Main time,2,2,Draw
+1178301,Copa del Rey,Quarter-Finals,2012-01-18,Real Madrid,FC Barcelona,Main time,1,2,FC Barcelona
+1125376,LaLiga,16,2011-12-10,Real Madrid,FC Barcelona,Main time,1,3,FC Barcelona
+1122445,Supercopa,final,2011-08-17,FC Barcelona,Real Madrid,Main time,3,2,FC Barcelona
+1122444,Supercopa,final,2011-08-14,Real Madrid,FC Barcelona,Main time,2,2,Draw
+1093390,UEFA Champions League,Semi-Finals,2011-05-03,FC Barcelona,Real Madrid,Main time,1,1,Draw
+1093389,UEFA Champions League,Semi-Finals,2011-04-27,Real Madrid,FC Barcelona,Main time,0,2,FC Barcelona
+1076632,Copa del Rey,Final,2011-04-20,FC Barcelona,Real Madrid,Extra time,0,1,Real Madrid
+1036385,LaLiga,32,2011-04-16,Real Madrid,FC Barcelona,Main time,1,1,Draw
+1036195,LaLiga,13,2010-11-29,FC Barcelona,Real Madrid,Main time,5,0,FC Barcelona
+957612,LaLiga,31,2010-04-10,Real Madrid,FC Barcelona,Main time,0,2,FC Barcelona
+957261,LaLiga,12,2009-11-29,FC Barcelona,Real Madrid,Main time,1,0,FC Barcelona
+920667,LaLiga,34,2009-05-02,Real Madrid,FC Barcelona,Main time,2,6,FC Barcelona
+920477,LaLiga,15,2008-12-13,FC Barcelona,Real Madrid,Main time,2,0,FC Barcelona
+79140,LaLiga,36,2008-05-07,Real Madrid,FC Barcelona,Main time,4,1,Real Madrid
+78947,LaLiga,17,2007-12-23,FC Barcelona,Real Madrid,Main time,0,1,Real Madrid
+58667,LaLiga,26,2007-03-10,FC Barcelona,Real Madrid,Main time,3,3,Draw
+58485,LaLiga,7,2006-10-22,Real Madrid,FC Barcelona,Main time,2,0,Real Madrid
+36056,LaLiga,31,2006-04-02,FC Barcelona,Real Madrid,Main time,1,1,Draw
+36002,LaLiga,12,2005-11-19,Real Madrid,FC Barcelona,Main time,0,3,FC Barcelona
+28204,LaLiga,31,2005-04-10,Real Madrid,FC Barcelona,Main time,4,2,Real Madrid
+27991,LaLiga,12,2004-11-20,FC Barcelona,Real Madrid,Main time,3,0,FC Barcelona
+6979,LaLiga,34,2004-04-25,Real Madrid,FC Barcelona,Main time,1,2,FC Barcelona
+3245,LaLiga,15,2003-12-06,FC Barcelona,Real Madrid,Main time,1,2,Real Madrid
+1004438,LaLiga,30,2003-04-19,Real Madrid,FC Barcelona,Main time,1,1,Draw
+1000097,LaLiga,11,2002-11-23,FC Barcelona,Real Madrid,Main time,0,0,Draw
+1023614,UEFA Champions League,Semi-Finals,2002-05-01,Real Madrid,FC Barcelona,Main time,1,1,Draw
+1023611,UEFA Champions League,Semi-Finals,2002-04-23,FC Barcelona,Real Madrid,Main time,0,2,Real Madrid
+1089783,LaLiga,30,2002-03-16,FC Barcelona,Real Madrid,Main time,1,1,Draw
+1083516,LaLiga,11,2001-11-04,Real Madrid,FC Barcelona,Main time,2,0,Real Madrid
+1091605,LaLiga,25,2001-03-03,Real Madrid,FC Barcelona,Main time,2,2,Draw
+1091365,LaLiga,6,2000-10-21,FC Barcelona,Real Madrid,Main time,2,0,FC Barcelona
+1183971,LaLiga,26,2000-02-26,Real Madrid,FC Barcelona,Main time,3,0,Real Madrid
+1183762,LaLiga,7,1999-10-13,FC Barcelona,Real Madrid,Main time,2,2,Draw
+2193770,LaLiga,22,1999-02-14,FC Barcelona,Real Madrid,Main time,3,0,FC Barcelona
+2193511,LaLiga,3,1998-09-19,Real Madrid,FC Barcelona,Main time,2,2,Draw
+2208517,LaLiga,28,1998-03-07,FC Barcelona,Real Madrid,Main time,3,0,FC Barcelona
+2208329,LaLiga,9,1997-11-01,Real Madrid,FC Barcelona,Main time,2,3,FC Barcelona
+2424034,Supercopa,final,1997-08-23,Real Madrid,FC Barcelona,Main time,4,1,Real Madrid
+2424033,Supercopa,final,1997-08-20,FC Barcelona,Real Madrid,Main time,2,1,FC Barcelona
+2290789,LaLiga,37,1997-05-10,FC Barcelona,Real Madrid,Main time,1,0,FC Barcelona
+2422570,Copa del Rey,last 16,1997-02-06,Real Madrid,FC Barcelona,Main time,1,1,Draw
+2422562,Copa del Rey,last 16,1997-01-30,FC Barcelona,Real Madrid,Main time,3,2,FC Barcelona
+2291195,LaLiga,16,1996-12-07,Real Madrid,FC Barcelona,Main time,2,0,Real Madrid
+2350104,LaLiga,26,1996-02-10,FC Barcelona,Real Madrid,Main time,3,0,FC Barcelona
+2349872,LaLiga,5,1995-09-30,Real Madrid,FC Barcelona,Main time,1,1,Draw
+2349429,LaLiga,35,1995-05-27,FC Barcelona,Real Madrid,Main time,1,0,FC Barcelona
+2349235,LaLiga,16,1995-01-07,Real Madrid,FC Barcelona,Main time,5,0,Real Madrid
+2349074,LaLiga,37,1994-05-07,Real Madrid,FC Barcelona,Main time,0,1,FC Barcelona
+2348888,LaLiga,18,1994-01-09,FC Barcelona,Real Madrid,Main time,5,0,FC Barcelona
+2424026,Supercopa,final,1993-12-16,FC Barcelona,Real Madrid,Main time,1,1,Draw
+2424025,Supercopa,final,1993-12-02,Real Madrid,FC Barcelona,Main time,3,1,Real Madrid
+3035063,Copa del Rey,Semi-Finals,1993-06-16,FC Barcelona,Real Madrid,Main time,1,2,Real Madrid
+3035065,Copa del Rey,Semi-Finals,1993-06-09,Real Madrid,FC Barcelona,Main time,1,1,Draw
+2347699,LaLiga,20,1993-01-30,Real Madrid,FC Barcelona,Main time,2,1,Real Madrid
+2347510,LaLiga,1,1992-09-05,FC Barcelona,Real Madrid,Main time,2,1,FC Barcelona
+2347369,LaLiga,25,1992-03-07,FC Barcelona,Real Madrid,Main time,1,1,Draw
+2347180,LaLiga,6,1991-10-18,Real Madrid,FC Barcelona,Main time,1,1,Draw
+2347103,LaLiga,38,1991-06-08,Real Madrid,FC Barcelona,Main time,1,0,Real Madrid
+2346913,LaLiga,19,1991-01-19,FC Barcelona,Real Madrid,Main time,2,1,FC Barcelona
+2424020,Supercopa,final,1990-12-12,Real Madrid,FC Barcelona,Main time,4,1,Real Madrid
+2424019,Supercopa,final,1990-12-05,FC Barcelona,Real Madrid,Main time,0,1,Real Madrid
+3038477,Copa del Rey,Final,1990-04-05,FC Barcelona,Real Madrid,Main time,2,0,FC Barcelona
+2348430,LaLiga,25,1990-02-15,Real Madrid,FC Barcelona,Main time,3,2,Real Madrid
+2327069,LaLiga,6,1989-10-07,FC Barcelona,Real Madrid,Main time,3,1,FC Barcelona
+2318800,LaLiga,27,1989-04-01,FC Barcelona,Real Madrid,Main time,0,0,Draw
+2317972,LaLiga,8,1988-10-22,Real Madrid,FC Barcelona,Main time,3,2,Real Madrid
+2424018,Supercopa,final,1988-09-29,FC Barcelona,Real Madrid,Main time,2,1,FC Barcelona
+2424017,Supercopa,final,1988-09-21,Real Madrid,FC Barcelona,Main time,2,0,Real Madrid
+2404276,LaLiga,35,1988-04-30,FC Barcelona,Real Madrid,Main time,2,0,FC Barcelona
+2404085,LaLiga,16,1988-01-02,Real Madrid,FC Barcelona,Main time,2,1,Real Madrid
+2420610,LaLiga,40,1987-05-23,FC Barcelona,Real Madrid,Main time,2,1,FC Barcelona
+2420567,LaLiga,35,1987-04-12,Real Madrid,FC Barcelona,Main time,0,0,Draw
+2420475,LaLiga,25,1987-01-31,FC Barcelona,Real Madrid,Main time,3,2,FC Barcelona
+2420322,LaLiga,8,1986-10-08,Real Madrid,FC Barcelona,Main time,1,1,Draw
+3483230,Copa de la Liga (bis 1986),Second Round,1986-05-18,Real Madrid,FC Barcelona,Main time,0,4,FC Barcelona
+3483223,Copa de la Liga (bis 1986),Second Round,1986-05-11,FC Barcelona,Real Madrid,Main time,2,2,Draw
+2404558,LaLiga,28,1986-03-08,Real Madrid,FC Barcelona,Main time,3,1,Real Madrid
+2404405,LaLiga,11,1985-11-09,FC Barcelona,Real Madrid,Main time,2,0,FC Barcelona
+3483193,Copa de la Liga (bis 1986),Quarter-Finals,1985-05-18,Real Madrid,FC Barcelona,Penalties,4,1,Real Madrid
+3483189,Copa de la Liga (bis 1986),Quarter-Finals,1985-05-11,FC Barcelona,Real Madrid,Main time,2,2,Draw
+2404782,LaLiga,18,1984-12-30,FC Barcelona,Real Madrid,Main time,3,2,FC Barcelona
+2404624,LaLiga,1,1984-09-02,Real Madrid,FC Barcelona,Main time,0,3,FC Barcelona
+2405143,LaLiga,25,1984-02-25,Real Madrid,FC Barcelona,Main time,2,1,Real Madrid
+2404990,LaLiga,8,1983-10-22,FC Barcelona,Real Madrid,Main time,1,2,Real Madrid
+3482845,Copa de la Liga (bis 1986),final,1983-06-29,FC Barcelona,Real Madrid,Main time,2,1,FC Barcelona
+3482844,Copa de la Liga (bis 1986),final,1983-06-26,Real Madrid,FC Barcelona,Main time,2,2,Draw
+3682175,Copa del Rey,Final,1983-06-04,FC Barcelona,Real Madrid,Main time,2,1,FC Barcelona
+2405494,LaLiga,30,1983-03-26,FC Barcelona,Real Madrid,Main time,2,1,FC Barcelona
+2405341,LaLiga,13,1982-11-27,Real Madrid,FC Barcelona,Main time,0,2,FC Barcelona
+2405834,LaLiga,33,1982-04-18,Real Madrid,FC Barcelona,Main time,3,1,Real Madrid
+2405681,LaLiga,16,1981-12-20,FC Barcelona,Real Madrid,Main time,3,1,FC Barcelona
+2406112,LaLiga,30,1981-03-29,Real Madrid,FC Barcelona,Main time,3,0,Real Madrid
+2405958,LaLiga,13,1980-11-30,FC Barcelona,Real Madrid,Main time,2,1,FC Barcelona
+2406327,LaLiga,20,1980-02-10,FC Barcelona,Real Madrid,Main time,0,2,Real Madrid
+2406171,LaLiga,3,1979-09-23,Real Madrid,FC Barcelona,Main time,3,2,Real Madrid
+2406638,LaLiga,21,1979-02-17,FC Barcelona,Real Madrid,Main time,2,0,FC Barcelona
+2406486,LaLiga,4,1978-09-23,Real Madrid,FC Barcelona,Main time,3,1,Real Madrid
+2407022,LaLiga,29,1978-04-05,Real Madrid,FC Barcelona,Main time,4,0,Real Madrid
+2406869,LaLiga,12,1977-12-04,FC Barcelona,Real Madrid,Main time,2,3,Real Madrid
+2407242,LaLiga,20,1977-01-30,Real Madrid,FC Barcelona,Main time,1,1,Draw
+2407092,LaLiga,3,1976-09-19,FC Barcelona,Real Madrid,Main time,3,1,FC Barcelona
+2407654,LaLiga,32,1976-04-30,Real Madrid,FC Barcelona,Main time,0,2,FC Barcelona
+2407507,LaLiga,15,1975-12-28,FC Barcelona,Real Madrid,Main time,2,1,FC Barcelona
+2407968,LaLiga,32,1975-05-11,FC Barcelona,Real Madrid,Main time,0,0,Draw
+2407813,LaLiga,15,1975-01-05,Real Madrid,FC Barcelona,Main time,1,0,Real Madrid
+3682556,Copa del Rey,Final,1974-06-29,Real Madrid,FC Barcelona,Main time,4,0,Real Madrid
+2408183,LaLiga,22,1974-02-17,Real Madrid,FC Barcelona,Main time,0,5,FC Barcelona
+2408039,LaLiga,6,1973-10-07,FC Barcelona,Real Madrid,Main time,0,0,Draw
+2408489,LaLiga,22,1973-02-25,Real Madrid,CF Barcelona,Main time,0,0,Draw
+2408334,LaLiga,5,1972-10-01,CF Barcelona,Real Madrid,Main time,1,0,FC Barcelona
+2408850,LaLiga,28,1972-04-03,CF Barcelona,Real Madrid,Main time,1,0,FC Barcelona
+2408693,LaLiga,11,1971-11-28,Real Madrid,CF Barcelona,Main time,1,1,Draw
+2409079,LaLiga,22,1971-02-14,CF Barcelona,Real Madrid,Main time,0,1,Real Madrid
+2408959,LaLiga,7,1970-10-25,Real Madrid,CF Barcelona,Main time,0,1,FC Barcelona
+3834162,Copa del Rey,Quarter-Finals,1970-06-06,CF Barcelona,Real Madrid,Main time,1,1,Draw
+3834161,Copa del Rey,Quarter-Finals,1970-05-30,Real Madrid,CF Barcelona,Main time,2,0,Real Madrid
+2409272,LaLiga,16,1969-12-28,CF Barcelona,Real Madrid,Main time,1,0,FC Barcelona
+2409147,LaLiga,1,1969-09-14,Real Madrid,CF Barcelona,Main time,3,3,Draw
+2409575,LaLiga,24,1969-03-09,CF Barcelona,Real Madrid,Main time,1,1,Draw
+2409450,LaLiga,9,1968-11-16,Real Madrid,CF Barcelona,Main time,2,1,Real Madrid
+3683366,Copa del Rey,Final,1968-07-11,CF Barcelona,Real Madrid,Main time,1,0,FC Barcelona
+2409840,LaLiga,27,1968-04-09,CF Barcelona,Real Madrid,Main time,1,1,Draw
+2409719,LaLiga,12,1967-12-10,Real Madrid,CF Barcelona,Main time,1,1,Draw
+2410063,LaLiga,25,1967-03-19,CF Barcelona,Real Madrid,Main time,2,1,FC Barcelona
+2409943,LaLiga,10,1966-11-20,Real Madrid,CF Barcelona,Main time,1,0,Real Madrid
+2413944,LaLiga,29,1966-03-27,CF Barcelona,Real Madrid,Main time,2,1,FC Barcelona
+2413817,LaLiga,14,1965-12-19,Real Madrid,CF Barcelona,Main time,1,3,FC Barcelona
+2414143,LaLiga,24,1965-02-28,CF Barcelona,Real Madrid,Main time,1,2,Real Madrid
+2414023,LaLiga,9,1964-11-08,Real Madrid,CF Barcelona,Main time,4,1,Real Madrid
+2414408,LaLiga,27,1964-03-30,CF Barcelona,Real Madrid,Main time,1,2,Real Madrid
+2414286,LaLiga,12,1963-12-15,Real Madrid,CF Barcelona,Main time,4,0,Real Madrid
+2414575,LaLiga,18,1963-01-27,CF Barcelona,Real Madrid,Main time,1,5,Real Madrid
+2414455,LaLiga,3,1962-09-30,Real Madrid,CF Barcelona,Main time,2,0,Real Madrid
+3841456,Copa del Rey,Quarter-Finals,1962-04-22,CF Barcelona,Real Madrid,Main time,1,3,Real Madrid
+3841455,Copa del Rey,Quarter-Finals,1962-04-15,Real Madrid,CF Barcelona,Main time,0,1,FC Barcelona
+2414831,LaLiga,20,1962-01-21,CF Barcelona,Real Madrid,Main time,3,1,FC Barcelona
+2414705,LaLiga,5,1961-09-30,Real Madrid,CF Barcelona,Main time,2,0,Real Madrid
+2415127,LaLiga,27,1961-03-26,Real Madrid,CF Barcelona,Main time,3,2,Real Madrid
+2415007,LaLiga,12,1960-12-04,CF Barcelona,Real Madrid,Main time,3,5,Real Madrid
+1020946,Europapokal der Landesmeister,last 16,1960-11-25,CF Barcelona,Real Madrid,Main time,2,1,FC Barcelona
+1020941,Europapokal der Landesmeister,last 16,1960-11-09,Real Madrid,CF Barcelona,Main time,2,2,Draw
+2207391,Europapokal der Landesmeister,Semi-Finals,1960-04-27,CF Barcelona,Real Madrid,Main time,1,3,Real Madrid
+2207390,Europapokal der Landesmeister,Semi-Finals,1960-04-21,Real Madrid,CF Barcelona,Main time,3,1,Real Madrid
+2415359,LaLiga,26,1960-03-20,CF Barcelona,Real Madrid,Main time,3,1,FC Barcelona
+2415239,LaLiga,11,1959-11-29,Real Madrid,CF Barcelona,Main time,2,0,Real Madrid
+3841795,Copa del Rey,Semi-Finals,1959-06-14,CF Barcelona,Real Madrid,Main time,3,1,FC Barcelona
+3841794,Copa del Rey,Semi-Finals,1959-06-07,Real Madrid,CF Barcelona,Main time,2,4,FC Barcelona
+2415567,LaLiga,22,1959-02-15,Real Madrid,CF Barcelona,Main time,1,0,Real Madrid
+2415447,LaLiga,7,1958-10-26,CF Barcelona,Real Madrid,Main time,4,0,FC Barcelona
+2415791,LaLiga,20,1958-02-02,CF Barcelona,Real Madrid,Main time,0,2,Real Madrid
+2415670,LaLiga,5,1957-10-13,Real Madrid,CF Barcelona,Main time,3,0,Real Madrid
+3842342,Copa del Rey,Quarter-Finals,1957-05-19,CF Barcelona,Real Madrid,Main time,6,1,FC Barcelona
+3842343,Copa del Rey,Quarter-Finals,1957-05-12,Real Madrid,CF Barcelona,Main time,2,2,Draw
+2416071,LaLiga,25,1957-03-03,Real Madrid,CF Barcelona,Main time,1,0,Real Madrid
+2415951,LaLiga,10,1956-11-11,CF Barcelona,Real Madrid,Main time,1,0,FC Barcelona
+2416311,LaLiga,25,1956-03-18,CF Barcelona,Real Madrid,Main time,2,0,FC Barcelona
+2416191,LaLiga,10,1955-11-13,Real Madrid,CF Barcelona,Main time,2,1,Real Madrid
+2416559,LaLiga,26,1955-03-06,CF Barcelona,Real Madrid,Main time,2,2,Draw
+2416439,LaLiga,11,1954-11-21,Real Madrid,CF Barcelona,Main time,3,0,Real Madrid
+3842382,Copa del Rey,Semi-Finals,1954-06-13,CF Barcelona,Real Madrid,Main time,3,1,FC Barcelona
+3842383,Copa del Rey,Semi-Finals,1954-06-06,Real Madrid,CF Barcelona,Main time,1,0,Real Madrid
+2416767,LaLiga,22,1954-02-21,CF Barcelona,Real Madrid,Main time,5,1,FC Barcelona
+2416647,LaLiga,7,1953-10-25,Real Madrid,CF Barcelona,Main time,5,0,Real Madrid
+2417039,LaLiga,26,1953-04-05,CF Barcelona,Real Madrid,Main time,1,0,FC Barcelona
+2416919,LaLiga,11,1952-11-23,Real Madrid,CF Barcelona,Main time,2,1,Real Madrid
+2417271,LaLiga,25,1952-03-02,CF Barcelona,Real Madrid,Main time,4,2,FC Barcelona
+2417151,LaLiga,10,1951-11-11,Real Madrid,CF Barcelona,Main time,5,1,Real Madrid
+2417455,LaLiga,18,1951-01-14,Real Madrid,CF Barcelona,Main time,4,1,Real Madrid
+2417335,LaLiga,3,1950-09-24,CF Barcelona,Real Madrid,Main time,7,2,FC Barcelona
+2417658,LaLiga,16,1950-01-15,CF Barcelona,Real Madrid,Main time,2,3,Real Madrid
+2417567,LaLiga,3,1949-09-18,Real Madrid,CF Barcelona,Main time,6,1,Real Madrid
+2417838,LaLiga,15,1949-01-09,CF Barcelona,Real Madrid,Main time,3,1,FC Barcelona
+2417747,LaLiga,2,1948-09-19,Real Madrid,CF Barcelona,Main time,1,2,FC Barcelona
+2418029,LaLiga,17,1948-01-25,CF Barcelona,Real Madrid,Main time,4,2,FC Barcelona
+2417938,LaLiga,4,1947-10-12,Real Madrid,CF Barcelona,Main time,1,1,Draw
+2418260,LaLiga,24,1947-03-30,CF Barcelona,Real Madrid,Main time,3,2,FC Barcelona
+2418169,LaLiga,11,1946-12-01,Real Madrid,CF Barcelona,Main time,2,1,Real Madrid
+2418434,LaLiga,22,1946-03-03,CF Barcelona,Real Madrid,Main time,1,0,FC Barcelona
+2418343,LaLiga,9,1945-11-25,Real Madrid,CF Barcelona,Main time,3,2,Real Madrid
+2418609,LaLiga,21,1945-03-25,CF Barcelona,Real Madrid,Main time,5,0,FC Barcelona
+2418518,LaLiga,8,1944-11-12,Real Madrid,CF Barcelona,Main time,1,0,Real Madrid
+2418821,LaLiga,26,1944-04-09,CF Barcelona,Real Madrid,Main time,1,2,Real Madrid
+2418730,LaLiga,13,1944-01-02,Real Madrid,CF Barcelona,Main time,0,1,FC Barcelona
+3843342,Copa del Rey,Semi-Finals,1943-06-13,Real Madrid,CF Barcelona,Main time,11,1,Real Madrid
+3843341,Copa del Rey,Semi-Finals,1943-06-06,CF Barcelona,Real Madrid,Main time,3,0,FC Barcelona
+2418924,LaLiga,14,1943-01-10,CF Barcelona,Real Madrid,Main time,5,5,Draw
+2418832,LaLiga,1,1942-09-27,Real Madrid,CF Barcelona,Main time,3,0,Real Madrid
+2419121,LaLiga,17,1942-01-25,CF Barcelona,Real Madrid,Main time,0,2,Real Madrid
+2419030,LaLiga,4,1941-10-19,Real Madrid,CF Barcelona,Main time,4,3,Real Madrid
+2419311,LaLiga,21,1941-02-23,Real Madrid,CF Barcelona,Main time,1,2,FC Barcelona
+2419245,LaLiga,10,1940-12-01,CF Barcelona,Real Madrid,Main time,3,0,FC Barcelona
+2419437,LaLiga,20,1940-04-14,FC Barcelona,Real Madrid,Main time,0,0,Draw
+2419371,LaLiga,9,1940-01-28,Real Madrid,FC Barcelona,Main time,2,1,Real Madrid
+3678139,Copa del Rey,Final,1936-06-21,Real Madrid,FC Barcelona,Main time,2,1,Real Madrid
+2419558,LaLiga,18,1936-03-22,Real Madrid,FC Barcelona,Main time,3,0,Real Madrid
+2419492,LaLiga,7,1935-12-22,FC Barcelona,Real Madrid,Main time,0,3,Real Madrid
+2419707,LaLiga,21,1935-04-21,FC Barcelona,Real Madrid,Main time,5,0,FC Barcelona
+2419641,LaLiga,10,1935-02-03,Real Madrid,FC Barcelona,Main time,8,2,Real Madrid
+2419779,LaLiga,13,1934-01-28,Real Madrid,FC Barcelona,Main time,4,0,Real Madrid
+2419734,LaLiga,4,1933-11-26,FC Barcelona,Real Madrid,Main time,1,2,Real Madrid
+2419879,LaLiga,15,1933-03-05,Real Madrid,FC Barcelona,Main time,2,1,Real Madrid
+2419834,LaLiga,6,1933-01-01,FC Barcelona,Real Madrid,Main time,1,1,Draw
+2419985,LaLiga,18,1932-04-03,FC Barcelona,Real Madrid,Main time,2,2,Draw
+2419940,LaLiga,9,1932-01-31,Real Madrid,FC Barcelona,Main time,2,0,Real Madrid
+2420075,LaLiga,18,1931-04-05,FC Barcelona,Real Madrid,Main time,3,1,FC Barcelona
+2420030,LaLiga,9,1931-02-01,Real Madrid,FC Barcelona,Main time,0,0,Draw
+2420165,LaLiga,18,1930-03-30,Real Madrid,FC Barcelona,Main time,5,1,Real Madrid
+2420120,LaLiga,9,1930-01-26,FC Barcelona,Real Madrid,Main time,1,4,Real Madrid
+2420222,LaLiga,11,1929-05-09,Real Madrid,FC Barcelona,Main time,0,1,FC Barcelona
+2420174,LaLiga,2,1929-02-17,FC Barcelona,Real Madrid,Main time,1,2,Real Madrid
+3486449,Copa del Rey,Quarter-Finals,1926-04-25,FC Barcelona,Real Madrid,Main time,3,0,FC Barcelona
+3486445,Copa del Rey,Quarter-Finals,1926-04-18,Real Madrid,FC Barcelona,Main time,1,5,FC Barcelona
+3844651,Copa del Rey,semi-finals,1916-04-15,Madrid CF,FC Barcelona,Extra time,4,2,Real Madrid
+3844650,Copa del Rey,semi-finals,1916-04-13,Madrid CF,FC Barcelona,Extra time,6,6,Draw
+3844649,Copa del Rey,Semi-Finals,1916-04-02,Madrid CF,FC Barcelona,Main time,4,1,Real Madrid
+3844648,Copa del Rey,Semi-Finals,1916-03-26,FC Barcelona,Madrid CF,Main time,2,1,FC Barcelona
+3843195,Copa del Rey,Semi-Finals,1902-05-13,FC Barcelona,Madrid CF,Main time,3,1,FC Barcelona
