@@ -1,0 +1,227 @@
+,match_id,minute,result,xG,player,RB_team,against_team
+0,22689,37,SavedShot,0.058946430683135986,Unai Gómez,Real Madrid,Athletic Club
+1,22689,52,MissedShots,0.11095711588859558,Gorka Guruzeta,Real Madrid,Athletic Club
+2,22689,58,BlockedShot,0.019723892211914062,Mikel Vesga,Real Madrid,Athletic Club
+3,22689,71,BlockedShot,0.05550842732191086,Oihan Sancet,Real Madrid,Athletic Club
+4,22689,75,BlockedShot,0.28344589471817017,Alex Berenguer,Real Madrid,Athletic Club
+5,22689,89,MissedShots,0.04246702417731285,Oihan Sancet,Real Madrid,Athletic Club
+6,22689,90,MissedShots,0.12952829897403717,Aitor Paredes,Real Madrid,Athletic Club
+7,22698,2,Goal,0.40383273363113403,Sergio Arribas,Real Madrid,Almeria
+8,22698,33,SavedShot,0.020667804405093193,Iddrisu Baba,Real Madrid,Almeria
+9,22698,36,SavedShot,0.011109085753560066,Lucas Robertone,Real Madrid,Almeria
+10,22698,37,SavedShot,0.2640787959098816,Largie Ramazani,Real Madrid,Almeria
+11,22698,40,BlockedShot,0.05235906317830086,Luis Suárez,Real Madrid,Almeria
+12,22698,40,SavedShot,0.021484756842255592,Lucas Robertone,Real Madrid,Almeria
+13,22698,40,BlockedShot,0.11346463859081268,Largie Ramazani,Real Madrid,Almeria
+14,22698,40,BlockedShot,0.09439640492200851,Largie Ramazani,Real Madrid,Almeria
+15,22698,40,MissedShots,0.07882153987884521,Lucas Robertone,Real Madrid,Almeria
+16,22698,45,MissedShots,0.010202756151556969,Luis Suárez,Real Madrid,Almeria
+17,22698,46,MissedShots,0.02550315111875534,Largie Ramazani,Real Madrid,Almeria
+18,22698,46,SavedShot,0.5163661241531372,Edgar González,Real Madrid,Almeria
+19,22698,46,MissedShots,0.03027414157986641,Largie Ramazani,Real Madrid,Almeria
+20,22698,48,MissedShots,0.00857799407094717,Lucas Robertone,Real Madrid,Almeria
+21,22698,52,MissedShots,0.021554606035351753,Lucas Robertone,Real Madrid,Almeria
+22,22698,54,SavedShot,0.047435175627470016,Largie Ramazani,Real Madrid,Almeria
+23,22698,62,MissedShots,0.03208541125059128,Luis Suárez,Real Madrid,Almeria
+24,22698,70,MissedShots,0.019517872482538223,Luis Suárez,Real Madrid,Almeria
+25,22698,85,SavedShot,0.05029856041073799,Ibrahima Koné,Real Madrid,Almeria
+26,22698,95,BlockedShot,0.025914451107382774,Luis Suárez,Real Madrid,Almeria
+27,22712,13,BlockedShot,0.025812143459916115,Jørgen Strand Larsen,Real Madrid,Celta Vigo
+28,22712,13,SavedShot,0.12974512577056885,Unai Núñez,Real Madrid,Celta Vigo
+29,22712,16,MissedShots,0.02100948430597782,Jørgen Strand Larsen,Real Madrid,Celta Vigo
+30,22712,22,MissedShots,0.029226407408714294,Óscar Mingueza,Real Madrid,Celta Vigo
+31,22712,31,MissedShots,0.32206442952156067,Óscar Mingueza,Real Madrid,Celta Vigo
+32,22712,32,SavedShot,0.06791896373033524,Jørgen Strand Larsen,Real Madrid,Celta Vigo
+33,22712,34,SavedShot,0.07517732679843903,Iago Aspas,Real Madrid,Celta Vigo
+34,22712,44,MissedShots,0.09854882210493088,Jonathan Bamba,Real Madrid,Celta Vigo
+35,22712,51,SavedShot,0.08359312266111374,Jørgen Strand Larsen,Real Madrid,Celta Vigo
+36,22712,57,BlockedShot,0.053551070392131805,Luca De La Torre,Real Madrid,Celta Vigo
+37,22712,63,MissedShots,0.08836387097835541,Jørgen Strand Larsen,Real Madrid,Celta Vigo
+38,22712,69,MissedShots,0.12834058701992035,Iago Aspas,Real Madrid,Celta Vigo
+39,22712,70,BlockedShot,0.054916586726903915,Óscar Mingueza,Real Madrid,Celta Vigo
+40,22723,10,Goal,0.6303333640098572,Borja Mayoral,Real Madrid,Getafe
+41,22723,37,MissedShots,0.06356311589479446,Carles Aleñá,Real Madrid,Getafe
+42,22723,49,BlockedShot,0.027199286967515945,Carles Aleñá,Real Madrid,Getafe
+43,22723,56,SavedShot,0.08347076922655106,Carles Aleñá,Real Madrid,Getafe
+44,22723,85,BlockedShot,0.07437948137521744,Mauro Arambarri,Real Madrid,Getafe
+45,22723,91,MissedShots,0.014802007004618645,Djené Dakonam,Real Madrid,Getafe
+46,22729,4,SavedShot,0.5133658647537231,Ander Barrenetxea,Real Madrid,Real Sociedad
+47,22729,4,Goal,0.7486075162887573,Ander Barrenetxea,Real Madrid,Real Sociedad
+48,22729,10,BlockedShot,0.03225107863545418,Takefusa Kubo,Real Madrid,Real Sociedad
+49,22729,11,MissedShots,0.036721330136060715,Brais Méndez,Real Madrid,Real Sociedad
+50,22729,13,BlockedShot,0.029145924374461174,Mikel Merino,Real Madrid,Real Sociedad
+51,22729,28,SavedShot,0.071815624833107,Takefusa Kubo,Real Madrid,Real Sociedad
+52,22729,28,MissedShots,0.07032090425491333,Ander Barrenetxea,Real Madrid,Real Sociedad
+53,22729,30,SavedShot,0.3300287127494812,Mikel Merino,Real Madrid,Real Sociedad
+54,22729,38,MissedShots,0.1272665411233902,Ander Barrenetxea,Real Madrid,Real Sociedad
+55,22729,42,BlockedShot,0.04316791519522667,Ander Barrenetxea,Real Madrid,Real Sociedad
+56,22729,56,BlockedShot,0.06563647836446762,Ander Barrenetxea,Real Madrid,Real Sociedad
+57,22729,79,MissedShots,0.33278894424438477,Mikel Oyarzabal,Real Madrid,Real Sociedad
+58,22729,82,MissedShots,0.09749272465705872,Umar Sadiq,Real Madrid,Real Sociedad
+59,22729,85,SavedShot,0.018657684326171875,Aihen Muñoz,Real Madrid,Real Sociedad
+60,22729,88,MissedShots,0.026696696877479553,Mohamed Ali-Cho,Real Madrid,Real Sociedad
+61,22736,3,Goal,0.3746933937072754,Álvaro Morata,Real Madrid,Atletico Madrid
+62,22736,9,MissedShots,0.05406888946890831,Giménez,Real Madrid,Atletico Madrid
+63,22736,17,Goal,0.3539309799671173,Antoine Griezmann,Real Madrid,Atletico Madrid
+64,22736,19,BlockedShot,0.07847768813371658,Marcos Llorente,Real Madrid,Atletico Madrid
+65,22736,30,SavedShot,0.13918539881706238,Saúl Ñíguez,Real Madrid,Atletico Madrid
+66,22736,45,Goal,0.5945449471473694,Álvaro Morata,Real Madrid,Atletico Madrid
+67,22736,53,ShotOnPost,0.04680795967578888,Mario Hermoso,Real Madrid,Atletico Madrid
+68,22736,58,BlockedShot,0.02715170569717884,Antoine Griezmann,Real Madrid,Atletico Madrid
+69,22736,75,BlockedShot,0.044877611100673676,Samuel Lino,Real Madrid,Atletico Madrid
+70,22736,92,MissedShots,0.0820450633764267,Memphis Depay,Real Madrid,Atletico Madrid
+71,22753,10,BlockedShot,0.025515206158161163,Javi Muñoz,Real Madrid,Las Palmas
+72,22753,17,MissedShots,0.0424458347260952,Saúl Coco,Real Madrid,Las Palmas
+73,22753,33,BlockedShot,0.022152746096253395,Sory Kaba,Real Madrid,Las Palmas
+74,22753,38,MissedShots,0.04031963646411896,Sory Kaba,Real Madrid,Las Palmas
+75,22753,48,BlockedShot,0.03563541918992996,Munir,Real Madrid,Las Palmas
+76,22753,52,BlockedShot,0.04571382328867912,Munir,Real Madrid,Las Palmas
+77,22753,62,BlockedShot,0.014233190566301346,Sergi Cardona,Real Madrid,Las Palmas
+78,22753,62,MissedShots,0.00929447915405035,Kirian Rodríguez,Real Madrid,Las Palmas
+79,22753,65,MissedShots,0.01605580747127533,Munir,Real Madrid,Las Palmas
+80,22753,71,SavedShot,0.016562186181545258,Jonathan Viera,Real Madrid,Las Palmas
+81,22753,73,SavedShot,0.014667530544102192,Kirian Rodríguez,Real Madrid,Las Palmas
+82,22753,77,MissedShots,0.11469864845275879,Sergi Cardona,Real Madrid,Las Palmas
+83,22753,82,MissedShots,0.12844017148017883,Marvin Park,Real Madrid,Las Palmas
+84,22753,84,MissedShots,0.014826955273747444,Máximo Perrone,Real Madrid,Las Palmas
+85,22753,87,BlockedShot,0.01841326244175434,Kirian Rodríguez,Real Madrid,Las Palmas
+86,22753,92,MissedShots,0.0590565949678421,Marvin Park,Real Madrid,Las Palmas
+87,22760,2,MissedShots,0.6165871024131775,Yangel Herrera,Real Madrid,Girona
+88,22760,3,ShotOnPost,0.6055278778076172,Viktor Tsygankov,Real Madrid,Girona
+89,22760,15,SavedShot,0.03464328870177269,Eric Garcia,Real Madrid,Girona
+90,22760,22,MissedShots,0.04403261840343475,Artem Dovbyk,Real Madrid,Girona
+91,22760,27,SavedShot,0.005600027274340391,David López,Real Madrid,Girona
+92,22760,39,MissedShots,0.015083014033734798,Aleix García,Real Madrid,Girona
+93,22760,48,BlockedShot,0.0075952475890517235,Sávio,Real Madrid,Girona
+94,22760,49,SavedShot,0.11087512224912643,David López,Real Madrid,Girona
+95,22760,49,MissedShots,0.7069747447967529,Eric Garcia,Real Madrid,Girona
+96,22760,54,MissedShots,0.05714111030101776,Yangel Herrera,Real Madrid,Girona
+97,22760,72,MissedShots,0.024105122312903404,Yan Couto,Real Madrid,Girona
+98,22760,77,MissedShots,0.012866716831922531,Miguel Gutiérrez,Real Madrid,Girona
+99,22760,81,BlockedShot,0.0151609992608428,Pablo Torre,Real Madrid,Girona
+100,22772,13,BlockedShot,0.011675425805151463,Rubén García,Real Madrid,Osasuna
+101,22772,29,BlockedShot,0.024748964235186577,Ante Budimir,Real Madrid,Osasuna
+102,22772,29,MissedShots,0.01626531220972538,Jesús Areso,Real Madrid,Osasuna
+103,22772,41,MissedShots,0.024336516857147217,Jon Moncayola,Real Madrid,Osasuna
+104,22772,45,MissedShots,0.06612257659435272,Ante Budimir,Real Madrid,Osasuna
+105,22772,56,SavedShot,0.012541910633444786,Rubén Peña,Real Madrid,Osasuna
+106,22772,88,BlockedShot,0.008420735597610474,Pablo Ibáñez,Real Madrid,Osasuna
+107,22782,11,MissedShots,0.01689228229224682,Ivan Rakitic,Real Madrid,Sevilla
+108,22782,20,SavedShot,0.020082421600818634,Lucas Ocampos,Real Madrid,Sevilla
+109,22782,22,BlockedShot,0.1437450796365738,Ivan Rakitic,Real Madrid,Sevilla
+110,22782,22,SavedShot,0.019505862146615982,Lucas Ocampos,Real Madrid,Sevilla
+111,22782,24,MissedShots,0.3648914098739624,Djibril Sow,Real Madrid,Sevilla
+112,22782,41,BlockedShot,0.010053783655166626,Nemanja Gudelj,Real Madrid,Sevilla
+113,22782,41,MissedShots,0.3174057602882385,Lucas Ocampos,Real Madrid,Sevilla
+114,22782,45,MissedShots,0.02830970287322998,Dodi Lukebakio,Real Madrid,Sevilla
+115,22782,46,SavedShot,0.01844179816544056,Ivan Rakitic,Real Madrid,Sevilla
+116,22782,68,MissedShots,0.07535479962825775,Youssef En-Nesyri,Real Madrid,Sevilla
+117,22782,71,SavedShot,0.04816802218556404,Lucas Ocampos,Real Madrid,Sevilla
+118,22782,79,SavedShot,0.047243714332580566,Sergio Ramos,Real Madrid,Sevilla
+119,22782,80,MissedShots,0.018803946673870087,Suso,Real Madrid,Sevilla
+120,22782,82,MissedShots,0.05616076663136482,Lucas Ocampos,Real Madrid,Sevilla
+121,22782,92,BlockedShot,0.013089108280837536,Ivan Rakitic,Real Madrid,Sevilla
+122,22782,93,MissedShots,0.6403027772903442,Sergio Ramos,Real Madrid,Sevilla
+123,22782,95,SavedShot,0.033850207924842834,Erik Lamela,Real Madrid,Sevilla
+124,22692,3,MissedShots,0.3951324224472046,Juan Latasa,Barcelona,Getafe
+125,22692,29,SavedShot,0.06286905705928802,Juan Iglesias,Barcelona,Getafe
+126,22692,48,SavedShot,0.027585763484239578,Juan Iglesias,Barcelona,Getafe
+127,22692,52,MissedShots,0.05446315556764603,Carles Aleñá,Barcelona,Getafe
+128,22692,105,MissedShots,0.26445481181144714,Anthony Lozano,Barcelona,Getafe
+129,22701,2,MissedShots,0.018552476540207863,Fali,Barcelona,Cadiz
+130,22701,11,MissedShots,0.07370497286319733,Chris Ramos,Barcelona,Cadiz
+131,22701,34,SavedShot,0.4879668354988098,Roger,Barcelona,Cadiz
+132,22701,35,MissedShots,0.024883955717086792,Chris Ramos,Barcelona,Cadiz
+133,22701,51,MissedShots,0.09611684083938599,Rubén Alcaraz,Barcelona,Cadiz
+134,22701,62,MissedShots,0.24222977459430695,Chris Ramos,Barcelona,Cadiz
+135,22701,86,BlockedShot,0.05766936391592026,Milutin Osmajic,Barcelona,Cadiz
+136,22701,86,BlockedShot,0.01654301956295967,Darwin Machís,Barcelona,Cadiz
+137,22701,89,MissedShots,0.03977387398481369,Milutin Osmajic,Barcelona,Cadiz
+138,22701,89,MissedShots,0.05611554905772209,Darwin Machís,Barcelona,Cadiz
+139,22710,3,BlockedShot,0.024406099691987038,Álex Baena,Barcelona,Villarreal
+140,22710,6,MissedShots,0.08039338886737823,Álex Baena,Barcelona,Villarreal
+141,22710,8,BlockedShot,0.036125823855400085,Gerard Moreno,Barcelona,Villarreal
+142,22710,9,SavedShot,0.37136122584342957,Alexander Sørloth,Barcelona,Villarreal
+143,22710,24,SavedShot,0.03322981670498848,Alfonso,Barcelona,Villarreal
+144,22710,25,Goal,0.3112618029117584,Juan Foyth,Barcelona,Villarreal
+145,22710,28,BlockedShot,0.061462532728910446,Gerard Moreno,Barcelona,Villarreal
+146,22710,30,SavedShot,0.057050660252571106,Álex Baena,Barcelona,Villarreal
+147,22710,39,Goal,0.6150976419448853,Alexander Sørloth,Barcelona,Villarreal
+148,22710,49,Goal,0.2096453607082367,Álex Baena,Barcelona,Villarreal
+149,22710,53,BlockedShot,0.05154891312122345,Juan Foyth,Barcelona,Villarreal
+150,22710,94,MissedShots,0.0203632153570652,Ben Brereton Díaz,Barcelona,Villarreal
+151,22722,7,BlockedShot,0.04735391587018967,Pablo Ibáñez,Barcelona,Osasuna
+152,22722,22,SavedShot,0.07183605432510376,José Arnáiz,Barcelona,Osasuna
+153,22722,26,BlockedShot,0.02490282990038395,José Arnáiz,Barcelona,Osasuna
+154,22722,28,BlockedShot,0.06399989128112793,Iker Muñoz,Barcelona,Osasuna
+155,22722,31,SavedShot,0.40470319986343384,Aimar Oroz,Barcelona,Osasuna
+156,22722,51,MissedShots,0.03306107595562935,Alejandro Catena,Barcelona,Osasuna
+157,22722,62,BlockedShot,0.017067167907953262,Ezequiel Ávila,Barcelona,Osasuna
+158,22722,73,MissedShots,0.05452829226851463,Ezequiel Ávila,Barcelona,Osasuna
+159,22722,75,Goal,0.04308025538921356,Ezequiel Ávila,Barcelona,Osasuna
+160,22722,95,BlockedShot,0.012134027667343616,Iker Muñoz,Barcelona,Osasuna
+161,22722,95,BlockedShot,0.02917654812335968,Kike Barja,Barcelona,Osasuna
+162,22726,14,MissedShots,0.0730360895395279,Luiz Henrique,Barcelona,Real Betis
+163,22726,16,MissedShots,0.0504697822034359,Ayoze Pérez,Barcelona,Real Betis
+164,22726,27,MissedShots,0.016935737803578377,Willian José,Barcelona,Real Betis
+165,22726,45,SavedShot,0.4195239245891571,Willian José,Barcelona,Real Betis
+166,22726,48,MissedShots,0.0903412401676178,Marc Bartra,Barcelona,Real Betis
+167,22726,58,BlockedShot,0.055229779332876205,Ayoze Pérez,Barcelona,Real Betis
+168,22726,67,MissedShots,0.020006319507956505,Guido Rodríguez,Barcelona,Real Betis
+169,22726,73,MissedShots,0.034054048359394073,Sergi Altimira,Barcelona,Real Betis
+170,22726,75,MissedShots,0.017805779352784157,Abdessamad Ezzalzouli,Barcelona,Real Betis
+171,22726,87,MissedShots,0.023131778463721275,Juan Cruz,Barcelona,Real Betis
+172,22726,89,SavedShot,0.052334535866975784,Rodrigo Sánchez,Barcelona,Real Betis
+173,22737,17,SavedShot,0.04601071774959564,Iago Aspas,Barcelona,Celta Vigo
+174,22737,18,Goal,0.26293617486953735,Jørgen Strand Larsen,Barcelona,Celta Vigo
+175,22737,23,MissedShots,0.0819104015827179,Iago Aspas,Barcelona,Celta Vigo
+176,22737,26,BlockedShot,0.13206534087657928,Luca De La Torre,Barcelona,Celta Vigo
+177,22737,40,SavedShot,0.054681841284036636,Jørgen Strand Larsen,Barcelona,Celta Vigo
+178,22737,40,MissedShots,0.12459219992160797,Luca De La Torre,Barcelona,Celta Vigo
+179,22737,44,SavedShot,0.045476753264665604,Jonathan Bamba,Barcelona,Celta Vigo
+180,22737,52,BlockedShot,0.09822383522987366,Iago Aspas,Barcelona,Celta Vigo
+181,22737,53,SavedShot,0.09108752012252808,Óscar Mingueza,Barcelona,Celta Vigo
+182,22737,54,MissedShots,0.025801874697208405,Fran Beltrán,Barcelona,Celta Vigo
+183,22737,70,SavedShot,0.09343234449625015,Jonathan Bamba,Barcelona,Celta Vigo
+184,22737,75,Goal,0.5346542596817017,Tasos Douvikas,Barcelona,Celta Vigo
+185,22737,92,MissedShots,0.0953219085931778,Óscar Mingueza,Barcelona,Celta Vigo
+186,22749,3,BlockedShot,0.03825242444872856,Dani Rodríguez,Barcelona,Mallorca
+187,22749,7,Goal,0.48071232438087463,Vedat Muriqi,Barcelona,Mallorca
+188,22749,18,SavedShot,0.029796704649925232,Antonio Sánchez,Barcelona,Mallorca
+189,22749,47,Goal,0.2765370011329651,Abdón Prats,Barcelona,Mallorca
+190,22749,52,SavedShot,0.04631725698709488,Vedat Muriqi,Barcelona,Mallorca
+191,22749,56,MissedShots,0.01119397021830082,Dani Rodríguez,Barcelona,Mallorca
+192,22749,78,BlockedShot,0.04631369560956955,Matija Nastasic,Barcelona,Mallorca
+193,22749,78,BlockedShot,0.05549677088856697,Cyle Larin,Barcelona,Mallorca
+194,22749,80,SavedShot,0.1362861841917038,Cyle Larin,Barcelona,Mallorca
+195,22749,96,MissedShots,0.0927550420165062,Cyle Larin,Barcelona,Mallorca
+196,22757,4,MissedShots,0.043262649327516556,Dodi Lukebakio,Barcelona,Sevilla
+197,22757,15,SavedShot,0.02698560431599617,Ivan Rakitic,Barcelona,Sevilla
+198,22757,18,MissedShots,0.02601749636232853,Dodi Lukebakio,Barcelona,Sevilla
+199,22757,29,BlockedShot,0.0904974639415741,Lucas Ocampos,Barcelona,Sevilla
+200,22757,30,SavedShot,0.05272001400589943,Dodi Lukebakio,Barcelona,Sevilla
+201,22757,45,MissedShots,0.5217803716659546,Dodi Lukebakio,Barcelona,Sevilla
+202,22757,49,MissedShots,0.08632076531648636,Dodi Lukebakio,Barcelona,Sevilla
+203,22757,60,MissedShots,0.03457806631922722,Dodi Lukebakio,Barcelona,Sevilla
+204,22757,64,SavedShot,0.05423350632190704,Djibril Sow,Barcelona,Sevilla
+205,22757,73,MissedShots,0.07283776253461838,Ivan Rakitic,Barcelona,Sevilla
+206,22757,75,OwnGoal,0,Sergio Ramos,Barcelona,Sevilla
+207,22757,85,MissedShots,0.020310664549469948,Joan Jordán,Barcelona,Sevilla
+208,22757,94,MissedShots,0.04602304846048355,Mariano,Barcelona,Sevilla
+209,22771,0,Goal,0.05703171342611313,Bryan Zaragoza,Barcelona,Granada
+210,22771,28,Goal,0.3072434961795807,Bryan Zaragoza,Barcelona,Granada
+211,22771,33,BlockedShot,0.03203299269080162,Myrto Uzuni,Barcelona,Granada
+212,22771,40,MissedShots,0.009193593636155128,Gonzalo Villar,Barcelona,Granada
+213,22771,58,MissedShots,0.0785650685429573,Lucas Boyé,Barcelona,Granada
+214,22771,70,MissedShots,0.05742891505360603,Lucas Boyé,Barcelona,Granada
+215,22771,87,ShotOnPost,0.0700812116265297,Bryan Zaragoza,Barcelona,Granada
+216,22777,4,SavedShot,0.028628913685679436,Iñaki Williams,Barcelona,Athletic Club
+217,22777,20,BlockedShot,0.04695161432027817,Iñaki Williams,Barcelona,Athletic Club
+218,22777,20,SavedShot,0.05669353902339935,Iñaki Williams,Barcelona,Athletic Club
+219,22777,20,MissedShots,0.013921528123319149,Dani Vivian,Barcelona,Athletic Club
+220,22777,21,MissedShots,0.061608247458934784,Dani García,Barcelona,Athletic Club
+221,22777,29,MissedShots,0.009321433492004871,Inigo Ruiz de Galarreta,Barcelona,Athletic Club
+222,22777,31,MissedShots,0.046750508248806,Gorka Guruzeta,Barcelona,Athletic Club
+223,22777,45,SavedShot,0.07234852761030197,Nico Williams,Barcelona,Athletic Club
+224,22777,53,BlockedShot,0.0157722607254982,Aitor Paredes,Barcelona,Athletic Club
+225,22777,54,MissedShots,0.10215627402067184,Iñaki Williams,Barcelona,Athletic Club
