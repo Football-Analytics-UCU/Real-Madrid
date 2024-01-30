@@ -1,7 +1,6 @@
 # REAL MADRID CLUB DE FÚTBOL TEAM
 
 <img src="rma_logo.PNG"/>
-===================
 
 This is the Real Madrid team repository.
 
