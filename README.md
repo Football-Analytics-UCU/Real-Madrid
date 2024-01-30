@@ -1,10 +1,14 @@
 # Real-Madrid
 
- Introduction
+This notebook is a group project report of the Football Analytics course, where we analyzed a football match using real-world data. 
+This course was provided in collaboration with the Social Networks Lab, ETH Zurich, and the Faculty of Applied Sciences, UCU(Ukrainian Catholic University). It was taught by Roman Kyrychenko(Data Scientist and lecturer at UCU) and Prof. Dr. Ulrik Brandes.
 
-In this notebook, we used differnt approaches how to analyse data related to football(soccer) which have learnt in Football Analytics course. This course was provided by Roman Kyrychenko - Data Analitics engineer and lecturer in UCU(University based on Lviv, Ukraine). Our team(10 peoples) had to invastigate Real Madrid team. Our task was to analyse certain football(soccer) match on our own choice. We have chosen the El Clasico, La Liga(Barcelona vs. Real Madrid match) - Date: 28/10/2023 - one of the most excpected batle every year in the world. Even Asian peoples could spectate this match in convenient time (15:15 - by Central European Time).
+In this notebook, we used different approaches to analyze data with a deep understanding of the application of data analysis and statistical techniques to the sport of football and to analyze various aspects of the game, make predictions, and gain insights that can inform coaching decisions, player performance assessment, and team strategies.  
+Our team consisted of 10 people and we all worked on the analytics of the Real Madrid team.
 
-Here is a list of our Galactic team members: 
+The task of the project is an analytical analysis of our team's match. We have chosen the match Barcelona - Real Madrid (El Clasico of world football), which took place this year in the regular championship of Spain La Liga season 2023/2024. The date of the match was 28.10.2023 at 4.15 pm CEST.
+
+Here is a list of our Los Blancos team members: 
 
 [Marharyta Korotkova](https://github.com/atiragramk)
 
