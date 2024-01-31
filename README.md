@@ -18,7 +18,7 @@ This is the Real Madrid team repository.
 
 ### Project Report
 
-match_report_bar_rma.ipynb - python notebook that is used for our course project report
+- [match_report_bar_rma.ipynb - python notebook that is used for our course project report](https://github.com/Football-Analytics-UCU/Real-Madrid/blob/main/match_report_bar_rma.ipynb)
 
 This notebook is a group project report of the Football Analytics course, where we analyzed a football match using real-world data. 
 This course was provided in collaboration with the Social Networks Lab, ETH Zurich, and the Faculty of Applied Sciences, UCU(Ukrainian Catholic University). It was taught by Roman Kyrychenko(Data Scientist and lecturer at UCU) and Prof. Dr. Ulrik Brandes.
