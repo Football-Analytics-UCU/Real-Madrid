@@ -9,10 +9,8 @@ This is the Real Madrid team repository.
 ### Structure of the repository
 
 1. Data - placement of the main data scraped by us
-
-2. Images - all pictures that were made as a result of our work
 	
-3. Src - a folder directory for each team member containing their work files
+2. Src - a folder directory for each team member containing their work files
 
 ----------
 
