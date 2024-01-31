@@ -10,7 +10,7 @@ This is the Real Madrid team repository.
 
 1. Data - placement of the main data scraped by us
 	
-3. Src - a folder directory for each team member containing their work files
+2. Src - a folder directory for each team member containing their work files
 
 ----------
 
