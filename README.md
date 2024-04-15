@@ -1,6 +1,7 @@
 # REAL MADRID CLUB DE FÚTBOL TEAM
 
-<img src="https://upload.wikimedia.org/wikipedia/ru/9/98/Real_Madrid.png" style="height:300px" />
+<img src="photos/Real_Madrid_logo.png" style="height:300px" />
+
 
 This is the Real Madrid team repository.
 
